@@ -16,12 +16,15 @@ Also, you will need to utilize [Google Fonts](http://www.google.com/fonts)
 
 This homework is due Monday (01.12.15) morning by 8am and should be uploaded to your Github account titled "Surf_Paddle" and you should leave a comment on the Github issue assigned to you that points to that Repo.
 
+Use this live mockup to match the centering [here](http://h.timw.co/code/surf/)
+
 ### Fonts
 
 * [Header Font: Oswald](https://www.google.com/fonts#UsePlace:use/Collection:Oswald)
 * [Body Font: Open Sans](https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
 
-### Resources
+### Resources & Tools
 
+* [CSS Background Images](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image)
 * [Sip - Color Picker](http://theolabrothers.com/sip/)
 * [PerfectPixel](http://www.welldonecode.com/perfectpixel/)
