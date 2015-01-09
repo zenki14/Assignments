@@ -21,6 +21,7 @@ Use this live mockup to match the centering [here](http://h.timw.co/code/surf/)
 ### Bonus
 
 1. Make it responsive. 
+2. Use the PDF to see what the responsive mockup looks like
 
 We've not talked about how to make things responsive yet, but if you are interested in working ahead, go for it.
 
@@ -29,7 +30,7 @@ We will spend time on RWD (responsive web design) in this course, but it is gene
 #### A few hints
 
 1. Use `%`'s instead of `px` widths
-2. Use break points - read more about there [here](http://alistapart.com/article/responsive-web-design)
+2. Use break points - read more about them [here](http://alistapart.com/article/responsive-web-design)
 
 ### Fonts
 
