@@ -18,6 +18,19 @@ This homework is due Monday (01.12.15) morning by 8am and should be uploaded to 
 
 Use this live mockup to match the centering [here](http://h.timw.co/code/surf/)
 
+### Bonus
+
+1. Make it responsive. 
+
+We've not talked about how to make things responsive yet, but if you are interested in working ahead, go for it.
+
+We will spend time on RWD (responsive web design) in this course, but it is generally beyond the scope of the first week.
+
+#### A few hints
+
+1. Use `%`'s instead of `px` widths
+2. Use break points - read more about there [here](http://alistapart.com/article/responsive-web-design)
+
 ### Fonts
 
 * [Header Font: Oswald](https://www.google.com/fonts#UsePlace:use/Collection:Oswald)
